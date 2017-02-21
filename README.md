@@ -1,4 +1,4 @@
-##Ma charte de l'apprenant wilder
+##Ma charte de l'apprenant *Wilder* efficace
 
 Le processus d'apprentissage est comme toute chose quelque chose qui recquiert répétition, adaptation, hacks parfois. Comme le code en fait. 
 
